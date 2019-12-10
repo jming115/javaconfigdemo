@@ -1,0 +1,2 @@
+# javaconfigdemo
+基于JavaConfig实现SSM框架Demo应用
