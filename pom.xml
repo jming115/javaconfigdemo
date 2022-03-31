@@ -21,7 +21,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding> <!-- 字符集编码 -->
 
     <!-- spring版本号 -->
-    <spring.version>4.3.9.RELEASE</spring.version>
+    <spring.version>5.3.18</spring.version>
     <!-- slf4j版本号 -->
     <slf4j.version>1.7.24</slf4j.version>
   </properties>
