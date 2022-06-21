@@ -104,7 +104,7 @@
     <dependency>
       <groupId>mysql</groupId>
       <artifactId>mysql-connector-java</artifactId>
-      <version>8.0.16</version> <!--mysql8.0以上版本相应的依赖包版本-->
+      <version>8.0.28</version> <!--mysql8.0以上版本相应的依赖包版本-->
     </dependency>
     <!-- spring/mybatis依赖包包 -->
     <dependency>
